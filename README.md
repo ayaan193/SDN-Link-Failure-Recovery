@@ -50,7 +50,7 @@ cd pox
 ### 2. Run POX Controller
 
 ```bash
-./pox.py openflow.discovery link_failover
+./pox.py openflow.discovery openflow.spanning_tree link_failover
 ```
 
 ---
